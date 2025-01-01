@@ -1,0 +1,5 @@
+CREATE PROCEDURE CW1.ReadTrails
+AS
+BEGIN
+	SELECT * FROM Trails;
+END;
